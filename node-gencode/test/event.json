@@ -1,0 +1,90 @@
+{
+  "resource": "/gencode",
+  "path": "/gencode",
+  "httpMethod": "POST",
+  "headers": {
+    "Accept": "*/*",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Cache-Control": "no-cache",
+    "Content-Type": "application/json",
+    "Host": "17rjqcc39b.execute-api.ap-northeast-1.amazonaws.com",
+    "Postman-Token": "6f8214fa-999e-466c-ae97-89fb975c90d7",
+    "User-Agent": "PostmanRuntime/7.42.0",
+    "X-Amzn-Trace-Id": "Root=1-66fe1594-1b89aeef0c55ccb433042252",
+    "X-Forwarded-For": "104.28.162.100",
+    "X-Forwarded-Port": "443",
+    "X-Forwarded-Proto": "https"
+  },
+  "multiValueHeaders": {
+    "Accept": [
+      "*/*"
+    ],
+    "Accept-Encoding": [
+      "gzip, deflate, br"
+    ],
+    "Cache-Control": [
+      "no-cache"
+    ],
+    "Content-Type": [
+      "application/json"
+    ],
+    "Host": [
+      "17rjqcc39b.execute-api.ap-northeast-1.amazonaws.com"
+    ],
+    "Postman-Token": [
+      "6f8214fa-999e-466c-ae97-89fb975c90d7"
+    ],
+    "User-Agent": [
+      "PostmanRuntime/7.42.0"
+    ],
+    "X-Amzn-Trace-Id": [
+      "Root=1-66fe1594-1b89aeef0c55ccb433042252"
+    ],
+    "X-Forwarded-For": [
+      "104.28.162.100"
+    ],
+    "X-Forwarded-Port": [
+      "443"
+    ],
+    "X-Forwarded-Proto": [
+      "https"
+    ]
+  },
+  "queryStringParameters": null,
+  "multiValueQueryStringParameters": null,
+  "pathParameters": null,
+  "stageVariables": null,
+  "requestContext": {
+    "resourceId": "l2jbm9",
+    "resourcePath": "/gencode",
+    "httpMethod": "POST",
+    "extendedRequestId": "fDhPRFI9NjMEWaw=",
+    "requestTime": "03/Oct/2024:03:55:00 +0000",
+    "path": "/default/gencode",
+    "accountId": "005904641462",
+    "protocol": "HTTP/1.1",
+    "stage": "default",
+    "domainPrefix": "17rjqcc39b",
+    "requestTimeEpoch": 1727927700693,
+    "requestId": "b0035b24-b397-4583-b65f-17296f4845f3",
+    "identity": {
+      "cognitoIdentityPoolId": null,
+      "accountId": null,
+      "cognitoIdentityId": null,
+      "caller": null,
+      "sourceIp": "104.28.162.100",
+      "principalOrgId": null,
+      "accessKey": null,
+      "cognitoAuthenticationType": null,
+      "cognitoAuthenticationProvider": null,
+      "userArn": null,
+      "userAgent": "PostmanRuntime/7.42.0",
+      "user": null
+    },
+    "domainName": "17rjqcc39b.execute-api.ap-northeast-1.amazonaws.com",
+    "deploymentId": "bhyrz2",
+    "apiId": "17rjqcc39b"
+  },
+  "body": "{\"id\":\"G184122122\"}",
+  "isBase64Encoded": false
+}
